@@ -1,0 +1,74 @@
+.Padre
+{
+   
+    width: 100%;
+    height: 100%;
+   
+    
+    
+}
+.Padre1{
+    
+    background-image:  url("C:\Users\LENOVO\Desktop\proyectofinal\public\Fondo03.jpg"); 
+    background-size: 100% 100%; 
+    background-position: center; 
+    background-repeat: no-repeat;    
+}
+.Padre2
+{
+    padding: 3%;
+}
+.Madre
+{
+    display: flex;
+    flex-direction: column;
+}
+.Hijo
+{
+    margin: 20px;
+    display: inline;
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 100px; 
+}
+.Pie
+{ padding: 1%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: auto;
+    gap: 100px;
+}
+.Caja1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+.Caja11{
+    color: aliceblue;
+    margin: 4px;
+    border: 5px;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: rgb(177, 255, 252);
+   
+}
+.Caja12
+{   
+    margin: 4px;
+    border: 5px;
+    border-style: solid;
+    border-color: saddlebrown;
+    
+    
+   
+}
+.Caja2{
+    
+    display: flex;
+    text-align: center;
+    
+   
+}
